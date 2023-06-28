@@ -1,3 +1,3 @@
 # Fazendo um repositório para Alura
 
-- Testando :)
+- Consegui fazer meu repositório por conta da Alura :)
